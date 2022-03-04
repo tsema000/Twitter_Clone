@@ -13,6 +13,6 @@ Check out [LIVE DEMO here!!](https://twitterclone-sema.herokuapp.com )
 * Cloudinary(To host uploaded images on CDN)
 # User Story
 * User can post tweets.
-* Users canedit tweets.
+* Users can edit tweets.
 * Users can delete tweets.
 * Users can send a like to a tweet
