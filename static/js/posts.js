@@ -7,8 +7,8 @@ $(function() {
         // next() : Next to div.js-menu-icon
         //toggle() : Swithc show and hide
         $(this).next().toggle();  
-    })
+    });
 
 
 
-})
+});
